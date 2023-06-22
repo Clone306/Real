@@ -15,7 +15,7 @@ op.addEventListener("click",()=>
     }
 })
 let cross=document.querySelector(".cross")
-let button = document.querySelector("#but")
+// let button = document.querySelector("#but")
 let page = document.querySelector(".page")
 let page2 = document.querySelector(".page2")
 let spn1 = document.querySelector(".spn1")
