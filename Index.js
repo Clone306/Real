@@ -16,10 +16,10 @@ op.addEventListener("click",()=>
 })
 let cross=document.querySelector(".cross")
 // let button = document.querySelector("#but")
-let page = document.querySelector(".page")
-let page2 = document.querySelector(".page2")
-let spn1 = document.querySelector(".spn1")
-let spn2 = document.querySelector(".spn")
+// let page = document.querySelector(".page")
+// let page2 = document.querySelector(".page2")
+// let spn1 = document.querySelector(".spn1")
+// let spn2 = document.querySelector(".spn")
 
 let screen = document.querySelector(".screen")
 button.addEventListener("click",()=>
